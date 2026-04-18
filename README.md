@@ -4,7 +4,7 @@
   <a href="https://github.com/rodrigojesus7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigojesus7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojesus7&layout=compact&langs_count=6&theme=tokyonight&cache=2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigojesus7&layout=compact&langs_count=6&theme=tokyonight&cache=3"/>
 </div>
 
 <br>
@@ -15,7 +15,9 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="30"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="30"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="30"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40" height="30"></td>
   </tr>
 </table>
 
